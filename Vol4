@@ -1,0 +1,17 @@
+{
+  "title": "Modern-day Konosuba",
+  "description": "Konosuba character in the modern settings. Let this Chaotic Romcom Begin!",
+  "artist": "Izawa Koushi",
+  "author": "Izawa Koushi",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "Kazuma's day",
+      "volume": "4",
+      "groups": {
+        "r/artgold8": "/proxy/api/imgur/chapter/nglf8JD/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
